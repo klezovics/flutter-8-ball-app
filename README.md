@@ -1,0 +1,1 @@
+Magic 8 ball app, which helps you make importnat decisions
